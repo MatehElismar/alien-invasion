@@ -1,0 +1,11 @@
+{
+  "name": "alien-invasion",
+  "version": "1.0.0",
+  "description": "First game with python and pygame",
+  "main": "index.py",
+  "scripts": {
+    "test": "py index.py"
+  },
+  "author": "Mateh Elismar",
+  "license": "ISC"
+}
